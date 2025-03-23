@@ -22,7 +22,7 @@ document.addEventListener("DOMContentLoaded", () => {
   let conversationHistory = [];
   
   // OpenAI API Key const OPENAI_API_KEY = "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";
-  const OPENAI_API_KEY="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";
+  const OPENAI_API_KEY="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";
   // Declare responsiveVoice
   var responsiveVoice = window.responsiveVoice;
 
